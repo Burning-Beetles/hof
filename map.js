@@ -26,6 +26,10 @@
 // console.log(newArr)
 
 let arr = [10,20,30,40,50]
-let newArr = arr.map(v =>  v*v)
+// arr.map(v =>  console.log(v*v))
 
-console.log(newArr)
+// // console.log(newArr)
+
+// // arr.forEach(v => {
+   
+// })
